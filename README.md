@@ -1,7 +1,7 @@
 ⚠️ Profile changes in progress ⚠️
 
 <!--
-
+![](https://komarev.com/ghpvc/?username=AaronAppel)
 <details>
 
 ```
