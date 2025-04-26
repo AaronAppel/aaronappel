@@ -1,6 +1,7 @@
 ⚠️ Profile changes in progress ⚠️
 
 <!--
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AaronAppel)](https://git.io/streak-stats)
 ![](https://komarev.com/ghpvc/?username=AaronAppel)
 <details>
 
