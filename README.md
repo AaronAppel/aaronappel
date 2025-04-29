@@ -1,4 +1,10 @@
-⚠️ Profile changes in progress ⚠️
+Hi there 👋
+
+Welcome to my profile. Here I keep some passion and educational projects of mine.
+Feel free to poke around!
+
+Currently focused on my C++ game engine [QwerkE](https://github.com/AaronAppel/QwerkE)
+![QwerkE](https://github.com/user-attachments/assets/eee39852-4ca6-4d7a-9330-13c4234639e2)
 
 <!--
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AaronAppel)](https://git.io/streak-stats)
