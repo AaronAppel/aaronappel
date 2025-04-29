@@ -8,6 +8,22 @@
 ```
 Hello World 👋
 ```
+Experience
+
+<h1>
+Past Projects
+</h1>
+[image1]
+sameline
+[image2]
+sameline
+[image3]
+Create a banner
+
+<h1>
+Past Roles
+</h1>
+Dev Ops, Gameplay Programming, TOols Programming, Tech Lead
 
 `text`
 
